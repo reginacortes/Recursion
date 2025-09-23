@@ -2,7 +2,7 @@
 
 ## Problema 
 
-Un centro de distribucion de Correos de M ́exico requiere planificar la recolección de paquetes
+Un centro de distribucion de Correos de México requiere planificar la recolección de paquetes
 que hará un agente postal en diferentes oficinas de correos en diferentes dıas de la semana. Para
 esto, cuenta con un mapa de recolección por d ́ıa de la semana y peso de los paquetes a recolectar
 en cada oficina. En esta práctica desarrollarás un programa que te indicará las rutas que deberá
