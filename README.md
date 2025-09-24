@@ -9,16 +9,17 @@ en cada oficina. En esta práctica desarrollarás un programa que te indicará l
 tomar el agente para hacer un recorrido optimo y cuanto peso recogera en total para decidir qué
 vehıculo utilizar.
 
-Entrada un archivo de texto con los mapas de las rutas a seguir en cada dia de la semana
+  Entrada un archivo de texto con los mapas de las rutas a seguir en cada dia de la semana
 
 Cada lınea representara un mapa en formato de arbol que se explicara en clase en el que las
 hojas contaran con el peso a recolectar en cada oficina. El nodo raiz del arbol es el centro
 de distribucion y las hojas son oficinas de correos en las que se indicara el peso a recolectar
 mediante un numero natural de uno o dos dıgitos.
 
-El numero de oficinas a visitar esta en el rango de 1 a 255
+  El numero de oficinas a visitar esta en el rango de 1 a 255
 
 Salida: Una lınea de texto por cada dıa de las semana que diga: Ruta seguida, numero de calles visitadas y peso total
+
 Implemente dos versiones de este programa: Una version en la que utilice un algoritmo iterativo auxiliandose por una pila.
 Una version recursiva. 
 
