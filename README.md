@@ -26,8 +26,6 @@ Una version recursiva.
 
 ## Ejecución
 
-Debemos tomar en cuenta que el recorrido se hace en función de cómo están conectadas las oficinas, no de cuánto pesan. El archivo de texto será el que le de estructura al árbol. 
-
 Se utilizará un método recursivo que visite todos los nodos y acumule:
 - la ruta
 - el número de calles
