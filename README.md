@@ -26,6 +26,9 @@ Una version recursiva.
 
 ## Ejecución
 
+En el árbol de oficinas unicamente se insertaran las oficinas con su nombre
+Cada recolector tiene un arbol que nos dice a que oficinas debe pasar y que peso tomar de estas
+
 Se utilizará un método recursivo que visite todos los nodos y acumule:
 - la ruta
 - el número de calles
