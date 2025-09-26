@@ -26,8 +26,11 @@ Una version recursiva.
 
 ## Ejecución
 
-En el árbol de oficinas unicamente se insertaran las oficinas con su nombre
-Cada recolector tiene un arbol que nos dice a que oficinas debe pasar y que peso tomar de estas
+En el árbol de oficinas unicamente se insertaran las oficinas con su nombre. Se utilizara un árbol binario de busqueda, debido a que organizaremos las oficinas en cuanto a el numero de 
+id que contengan, de tal forma que en la parte derecha del árbol se encuentren aquellos datos mayores a la raiz, y del lado izquierdo aquellos menores a la raiz. 
+
+Cada recolector tiene un arbol que nos dice a que oficinas debe pasar y que peso tomar de estas, por lo que al usar un árbol binario de búsqueda, será mas facil buscar aquellas oficinas
+por las que tiene que pasar para tomar el peso. 
 
 Se utilizará un método recursivo que visite todos los nodos y acumule:
 - la ruta
